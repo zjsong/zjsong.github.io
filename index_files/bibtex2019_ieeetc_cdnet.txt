@@ -1,6 +1,6 @@
 @article{song19controllable,
   title={Controllable Disentanglement Network},
   author={Song, Zengjie and Koyejo, Oluwasanmi and Zhang, Jiangshe},
-  journal={arXiv},
+  journal={arXiv preprint},
   year={2019}
 }
