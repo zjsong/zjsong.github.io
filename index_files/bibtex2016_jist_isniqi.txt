@@ -1,0 +1,9 @@
+@article{song2016no,
+  title={No-Reference Image Quality Assessment Using Image Saliency for JPEG Compressed Images},
+  author={Song, Zengjie and Zhang, Jiangshe and Liu, Junmin},
+  journal={Journal of Imaging Science and Technology},
+  volume={60},
+  number={6},
+  pages={60503-1-60503-8},
+  year={2016}
+}
