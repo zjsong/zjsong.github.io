@@ -1,5 +1,5 @@
-@article{song2020towards,
-  title={Towards A Controllable Disentanglement Network},
+@article{song2020toward,
+  title={Toward a Controllable Disentanglement Network},
   author={Song, Zengjie and Koyejo, Oluwasanmi and Zhang, Jiangshe},
   journal={arXiv preprint arXiv:2001.08572},
   year={2020}
