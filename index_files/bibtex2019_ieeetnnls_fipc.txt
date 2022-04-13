@@ -1,9 +1,0 @@
-@article{song2019fast,
-  title={Fast Inference Predictive Coding: A Novel Model for Constructing Deep Neural Networks},
-  author={Song, Zengjie and Zhang, Jiangshe and Shi, Guang and Liu, Junmin},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  volume={30},
-  number={4},
-  pages={1150-1165},
-  year={2019}
-}
