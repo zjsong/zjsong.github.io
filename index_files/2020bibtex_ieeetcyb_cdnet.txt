@@ -1,0 +1,9 @@
+@article{song2020toward,
+  title={Toward a Controllable Disentanglement Network},
+  author={Song, Zengjie and Koyejo, Oluwasanmi and Zhang, Jiangshe},
+  journal={IEEE Transactions on Cybernetics},
+  volume={52},
+  number={4},
+  pages={2491--2504},
+  year={2020}
+}
