@@ -1,0 +1,6 @@
+@article{song2023visually,
+  title={Visually Guided Sound Source Separation With Audio-Visual Predictive Coding},
+  author={Song, Zengjie and Zhang, Zhaoxiang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023}
+}

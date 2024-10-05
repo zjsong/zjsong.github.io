@@ -1,0 +1,6 @@
+@article{song2024enhancing,
+  title={Enhancing Sound Source Localization via False Negative Elimination},
+  author={Song, Zengjie and Zhang, Jiangshe and Wang, Yuxi and Fan, Junsong and Zhang, Zhaoxiang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024}
+}
