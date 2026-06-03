@@ -1,8 +1,0 @@
-@article{sun2020drcnn,
-  title={DRCNN: Dynamic Routing Convolutional Neural Network for Multi-View 3D Object Recognition},
-  author={Sun, Kai and Zhang, Jiangshe and Liu, Junmin and Yu, Ruixuan and Song, Zengjie},
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={868--877},
-  year={2020}
-}
