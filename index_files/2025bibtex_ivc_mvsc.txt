@@ -1,0 +1,8 @@
+@article{hou2025semantic,
+  title={Semantic-Consistency Multi-View Deep Subspace Clustering Network with Frequency Branches},
+  author={Hou, Mengran and Liu, Junmin and Song, Zengjie and Wang, Yongjun},
+  journal={Image and Vision Computing},
+  volume={162},
+  pages={105681-1--105681-13},
+  year={2025}
+}

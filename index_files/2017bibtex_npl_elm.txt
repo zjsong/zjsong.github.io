@@ -1,0 +1,9 @@
+@article{chang2018deep,
+  title={A Deep Neural Network Based on ELM for Semi-supervised Learning of Image Classification},
+  author={Chang, Peiju and Zhang, Jiangshe and Hu, Junying and Song, Zengjie},
+  journal={Neural Processing Letters},
+  volume={48},
+  number={1},
+  pages={375--388},
+  year={2017}
+}

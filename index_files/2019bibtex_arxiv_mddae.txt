@@ -1,0 +1,6 @@
+@article{song2019learning,
+  title={Learning Controllable Disentangled Representations with Decorrelation Regularization},
+  author={Song, Zengjie and Koyejo, Oluwasanmi and Zhang, Jiangshe},
+  journal={arXiv preprint arXiv:1912.11675},
+  year={2019}
+}

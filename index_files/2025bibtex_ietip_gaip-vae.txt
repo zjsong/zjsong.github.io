@@ -1,0 +1,9 @@
+@article{tian2025gaip,
+  title={GAIP-VAE: Balancing Reconstruction and Disentanglement in VAE with Group and Individual Priors},
+  author={Tian, Yi and Song, Zengjie},
+  journal={IET Image Processing},
+  volume={19},
+  number={1},
+  pages={e70113-1--e70113-14},
+  year={2025}
+}
